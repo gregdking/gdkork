@@ -1,0 +1,10 @@
+{
+  "name": "gdkork",
+  "version": "0.0.1",
+  "devDependencies": {
+    "prompt": "~0.2.14",
+    "q": "~1.4.1",
+    "colors": "~1.1.2",
+    "lodash": "~3.10.1"
+  }
+}
